@@ -10,11 +10,13 @@ A Power BI project analyzing real café sales data to uncover performance trends
 - Data cleaning in Power Query
 
 ## Key Metrics
-Total Sales
-Total Orders
-Average Order Value (AOV)
+- Total Sales
+- Total Orders
+- Average Order Value (AOV)
 
 ## Visuals
-Sales by Time and Store
-Sales by Source and Store
-Sales by Weekday and Hour
+- Sales by Time and Store
+- Sales by Source and Store
+- Sales by Weekday and Hour
+- Membership Funnel
+- Voucher Usage Distribution
