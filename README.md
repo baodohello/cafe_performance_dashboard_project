@@ -22,4 +22,4 @@ A Power BI project analyzing real café sales data to uncover performance trends
 - Voucher Usage Distribution
 
 ## Screenshots
-![Alt Text](/screenshots/Screenshot 1.png)
+![Alt Text](/dashboard_screenshots/Screenshot 1.png)
