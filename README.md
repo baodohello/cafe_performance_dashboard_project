@@ -23,5 +23,5 @@ A Power BI project analyzing real café sales data to uncover performance trends
 
 ## Screenshots
 ![Alt Text](https://github.com/baodohello/cafe_performance_dashboard_project/blob/main/dashboard_screenshots/Screenshot%201.png)
-![Alt Text](dashboard_screenshots/Screenshot 2.png)
+![Alt Text](dashboard_screenshots/screenshot_2.png)
 
