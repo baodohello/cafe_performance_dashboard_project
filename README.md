@@ -6,8 +6,8 @@ A Power BI project analyzing real café sales data to uncover performance trends
 ## Tools Used
 - Power BI
 - Excel / CSV / JSON
-DAX (for measures)
-Data cleaning in Power Query
+- DAX (for measures)
+- Data cleaning in Power Query
 
 ## Key Metrics
 Total Sales
