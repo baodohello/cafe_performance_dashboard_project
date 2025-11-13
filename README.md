@@ -20,3 +20,6 @@ A Power BI project analyzing real café sales data to uncover performance trends
 - Sales by Weekday and Hour
 - Membership Funnel
 - Voucher Usage Distribution
+
+## Screenshots
+![Alt Text](/screenshots/Screenshot 1.png)
